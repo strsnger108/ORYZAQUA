@@ -1,0 +1,53 @@
+# ORYZAQUA™ | Daily Metabolic Hydration System
+**Developed by Oryzaqua Lifesciences** *(Hazaribagh & Ranchi, Jharkhand, India)*[cite: 1, 2, 3]  
+**Founder:** Naman Sinha *(B.Pharm, D.Pharm, MBA Healthcare Management)*[cite: 1, 2, 3]  
+**MSME Udyam Reg. No.:** `UDYAM-JH-11-0065608`[cite: 5, 6] | **IP Status:** Form 2 Provisional Patent Ready
+
+---
+
+## Overview
+**ORYZAQUA™** is an agri-biotech and nutraceutical R&D venture upcycling rice bran (*Oryza sativa L.*)—an abundant agricultural milling byproduct in Eastern India—into India’s first **crystal-clear, zero-calorie, neutral-tasting functional metabolic hydration system**[cite: 1, 2, 3].
+
+Inspired by Japan’s fermented rice-bran functional water (*Tokusui*)[cite: 1, 2, 4], Oryzaqua™ eliminates the sourness, tooth-enamel acidity, and supplement fatigue associated with Apple Cider Vinegar (ACV) and bitter green tea extracts—delivering daily metabolic hydration with zero habit change[cite: 1, 2, 3].
+
+---
+
+## Core Technical Innovation
+Incorporating *Oryza sativa* polyphenols and fermented postbiotic metabolites (such as **HMPA** / *3-(4-hydroxy-3-methoxyphenyl)propionic acid*) into clear water normally causes turbidity, sedimentation, and oxidative yellowing[cite: 1, 2, 3]. 
+
+Our **Four-Step Aqueous Stabilization Protocol** (covered under our provisional patent specification) solves this through:
+1. **Thermal Anti-Browning Chelation Buffer:** Controlled dissolution (38°C–42°C) using Ascorbic Acid and Citric Acid Anhydrous to scavenge dissolved oxygen[cite: 1, 2, 3].
+2. **High-Shear Solubilization & Palate Neutralization:** Balanced with Potassium Bicarbonate and Magnesium Sulfate Heptahydrate ($Mg^{2+}, K^+$) to maintain **pH 6.4–6.8** and **TDS 80–120 ppm**[cite: 1, 2, 3].
+3. **Non-Ozonated Sub-Micron Filtration:** **0.22-micron PES membrane polishing** (avoiding post-blend ozonation that oxidizes polyphenols) to maintain optical clarity (**Turbidity < 1.0 NTU**) and a 100% pure-water sensory profile[cite: 1, 2, 3].
+
+---
+
+## Dual-SKU Product Architecture ("Zero-Freight-Trap" Model)
+To avoid the high courier cost of shipping heavy water bottles across India, Oryzaqua™ operates a two-format architecture[cite: 1, 2, 4]:
+
+| Feature | SKU 1: Oryzaqua™ Pure 500 | SKU 2: Oryzaqua™ MetaboDrops 30X |
+| :--- | :--- | :--- |
+| **Format** | 500 ml Ready-to-Drink (RTD) Clear PET Bottle[cite: 1, 2, 3] | 30 ml Concentrated Dropper (30 Servings)[cite: 1, 2, 3] |
+| **Daily Usage** | 1 chilled bottle daily[cite: 1, 2, 3] | 1 ml (20 drops) in 500 ml home RO water[cite: 1, 2, 3] |
+| **Active Composition** | 25–30 mg Standardized *Oryza sativa* Extract + 50 mg L-Carnitine + Electrolytes ($Mg^{2+}, K^+$)[cite: 1, 2, 3] | 25–30 mg Standardized *Oryza sativa* Extract + 50 mg L-Carnitine per 1 ml dose[cite: 1, 2, 3] |
+| **Sensory & Nutrition** | 0 kcal, 0 sugar, 0 caffeine, neutral water taste[cite: 1, 2, 3] | 0 kcal, 0 sugar, rapid dispersion without clouding[cite: 1, 2, 3] |
+| **Distribution Channel** | Local gyms, clinics & pharmacies (~200 km radius in Jharkhand)[cite: 1, 2, 3] | Pan-India D2C e-commerce & clinical monthly kits[cite: 1, 2, 3] |
+| **Target MRP** | ₹60 / bottle[cite: 1, 2, 3] | ₹599 / bottle (~₹19.90 / serving)[cite: 1, 2, 3] |
+
+---
+
+## Regulatory & R&D Roadmap
+* **Stage 1 — Version 1.0 Commercial Pilot:** Formulated strictly using FSSAI Nutraceutical Regulations (2022) permitted ingredients (*Oryza sativa L.* extract, L-Carnitine, and mineral salts) with compliant structure/function positioning[cite: 1, 2, 3].
+* **Stage 2 — Indigenous Bioconversion & Novel Dossier:** Standardizing *Lactobacillus* lactic-acid fermentation of Eastern Indian rice bran ferulic acid into water-soluble HMPA alongside filing the FSSAI Novel Food & Claim dossier[cite: 1, 2, 3, 8].
+
+---
+
+## Repository Structure *(Suggested)*
+```text
+├── docs/
+│   ├── formulation-sop/         # Master premix & pH/TDS stabilization protocols
+│   ├── regulatory-fssai/        # Label compliance & ingredient specifications
+│   └── pitch-and-grants/        # RKVY-RAFTAAR, NIDHI-EIR & SISFS documentation
+├── assets/
+│   └── branding/                # Oryzaqua Lifesciences logos & SKU mockups
+└── README.md
